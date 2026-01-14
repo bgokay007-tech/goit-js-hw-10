@@ -16,3 +16,6 @@
 @import url('./badges.css');
 @import url('./back-link.css');
 @import url('./footer.css');
+@import "flatpickr/dist/flatpickr.min.css";
+@import "flatpickr/dist/themes/material_blue.css";
+@import "flatpickr/dist/plugins/confirmDate/confirmDate.css";
